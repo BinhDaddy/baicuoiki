@@ -1,4 +1,4 @@
-package TBinh;
+package Tbinh;
 
 class ThietBi {
     protected String ten;
